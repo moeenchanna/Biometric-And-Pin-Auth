@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Biometric And Pin Auth</string>
+    <string name="successfully_validated_biometric">You are eligible to see this message because you successfully validated yourself</string>
+    <string name="failed_biometric">You failed to validate your identity through biometric</string>
+    <string name="biometric_not_enabled">You Don\'t have Biometric enabled on you device, Please enable it to use secure validation</string>
+    <string name="biometric_not_present">You Don\'t have Biometric present.</string>
+    <string name="no_biometric_feature">No biometric features available on this device.</string>
+    <string name="no_biometric_feature_available">Biometric features are currently unavailable.</string>
+    <string name="hasnt_associated_any_biometric_credentials">he user hasn\'t associated any biometric credentials with their account.</string>
+</resources>
